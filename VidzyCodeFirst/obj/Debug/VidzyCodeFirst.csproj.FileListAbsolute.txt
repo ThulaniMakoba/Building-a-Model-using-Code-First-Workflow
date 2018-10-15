@@ -1,0 +1,17 @@
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe.config
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.exe
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\VidzyCodeFirst.pdb
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.CopyComplete
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.exe
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.pdb
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.InitialModel.resources
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csproj.GenerateResource.cache
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.PopulateGenreTable.resources
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.csprojAssemblyReference.cache
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddGenreToVideosTable.resources
+C:\Users\ThulaniMakoba\source\repos\VidzyCodeFirst\VidzyCodeFirst\obj\Debug\VidzyCodeFirst.Migrations.AddClassificationToVideoTable.resources
